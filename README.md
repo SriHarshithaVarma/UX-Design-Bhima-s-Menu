@@ -1,6 +1,6 @@
 ## BHIMA'S FOOD MENU/UX DESIGN
 
-The Bhima's Food Menu project focuses on creating a user-friendly menu interface for both Android and desktop platforms, emphasizing responsive web design principles. The name 'Bhima's Food Menu' is inspired by the character 'Bhima' from the epic Mahabharata, known for his passion for cooking and eating
+The Bhima's Food Menu project focuses on creating a user-friendly menu interface for both Android and desktop platforms, emphasizing responsive web design principles. The name 'Bhima's Food Menu' is inspired by the character 'Bhima' from the epic Mahabharata, known for his passion for cooking and eating.
 
  **Bhima's Menu -Android version(Figma)**
  
